@@ -1,0 +1,33 @@
+total 124
+drwxr-xr-x 2 cod3rgrrl cod3rgrrl 4096 Feb 13 14:48 .
+drwxr-xr-x 6 cod3rgrrl cod3rgrrl 4096 Feb 13 07:53 ..
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   32 Feb 13 08:00 0-hello_world
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   42 Feb 13 09:16 100-empty_casks
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl  105 Feb 13 09:18 101-gifs
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   49 Feb 13 09:19 102-acrostic
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl  103 Feb 13 09:19 103-the_biggest_fan
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   48 Feb 13 08:34 10-no_more_js
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   37 Feb 13 08:38 11-directories
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   26 Feb 13 08:40 12-newest_files
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   28 Feb 13 08:44 13-unique
+-rw-r--r-- 1 cod3rgrrl cod3rgrrl   36 Feb 13 08:45 14-findthatword
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   38 Feb 13 08:49 15-countthatword
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   41 Feb 13 08:59 16-whatsnext
+-rw-r--r-- 1 cod3rgrrl cod3rgrrl   38 Feb 13 09:01 17-hidethisword
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   48 Feb 13 09:03 18-letteronly
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   27 Feb 13 09:04 19-AZ
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   27 Feb 13 14:39 1-confused_smiley
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   30 Feb 13 09:09 20-hiago
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   16 Feb 13 09:11 21-reverse
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   48 Feb 13 09:13 22-users_and_homes
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   28 Feb 13 08:11 2-hellofile
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   39 Feb 13 08:14 3-twofiles
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   35 Feb 13 14:41 4-lastlines
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   35 Feb 13 08:17 5-firstlines
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   40 Feb 13 08:20 6-third_line
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   80 Feb 13 14:44 7-file
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   37 Feb 13 14:46 8-cwd_state
+-rwxr-xr-x 1 cod3rgrrl cod3rgrrl   37 Feb 13 08:32 9-duplicate_last_line
+-rw-r--r-- 1 cod3rgrrl cod3rgrrl   12 Feb 13 14:44 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 cod3rgrrl cod3rgrrl    0 Feb 13 14:48 ls_cwd_content
+-rw-r--r-- 1 cod3rgrrl cod3rgrrl   51 Feb 13 07:55 README.md
