@@ -1,3 +1,3 @@
 ## DevOps
 
-Shell basics
+Shell basics, permissions, redirections and variables.
